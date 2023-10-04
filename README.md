@@ -15,18 +15,6 @@ Este é o repositório do projeto Spider-Verse, desenvolvido durante uma live no
 - [Framer Motion](https://www.framer.com/api/motion)
 - [SASS](https://sass-lang.com)
 
-## 📚 Materiais
-
-- [Link da live no Youtube](https://www.youtube.com/watch?v=d5HVw12uOpk)
-- [Material de apoio com tutorial completo](https://micheleambrosio.notion.site/Live-Criando-um-carrossel-parallax-do-Aranhaverso-com-React-Next-js-13-e-Framer-Motion-67a818e32c2049d39d28ce4a185555c4?pvs=4)
-- [Assets](https://drive.google.com/drive/folders/150O6eEhs8oGaHMMss7_CYG2jnI7yMugO?usp=sharing) (arquivos de imagens e efeitos sonoros)
-- [Protótipo no Figma](https://www.figma.com/file/rgHS7o5MyTAxk9vCRH5YhL/Landpage-%2B-Mobile---SpiderVerse?type=design&node-id=0%3A1&mode=design&t=5SFRyEJyIbhD90Sl-1)
-
-## 🌿 Branches
-
-- `main` projeto finalizado com todas as features implementadas durante a live;
-- `template` estrutura inicial para que você possa iniciar o projeto, contendo todos os assets, bibliotecas, estrutura de pastas e configurações de ESLint;
-- `live` parte do projeto já iniciado para o code-review em live, pronto para implementar as interações e animações do usuário com o projeto.
 
 ## 🎨 Protótipo do projeto
 
@@ -93,19 +81,4 @@ Se deseja alterar a porta padrão na qual a aplicação tentará subir, você po
 
 Agora você está pronto para explorar o projeto em seu ambiente local!
 
-## 📚 Tutorial do projeto
-[Live Criando um carrossel parallax do Aranhaverso.pdf](https://github.com/digitalinnovationone/spiderverse/files/12098974/Live.Criando.um.carrossel.parallax.do.Aranhaverso.67a818e32c2049d39d28ce4a185555c4.pdf)
 
-## 👩‍💻 Autora
-
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com ❤️ por [Michele Ambrosio](https://github.com/micheleambrosio) 😊
