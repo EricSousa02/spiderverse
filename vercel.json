@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/api/heroes",
+      "dest": "https://64a54c6300c3559aa9bf7245.mockapi.io"
+    }
+  ]
+}
