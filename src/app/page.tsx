@@ -6,9 +6,6 @@ import { IHeroData } from "@/interfaces/heroes";
 async function getHeroesData(): Promise<{ data: IHeroData[] }> {
   const res = await fetch(`${process.env.DOMAIN_ORIGIN}/api/heroes`);
 
-  if (!res.ok) {
-    throw new Error("Falha ao buscar heróis");
-  }
 
   return res.json();
 }
